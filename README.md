@@ -41,40 +41,40 @@ A modern and scalable **Todo Application** built with **React.js** and **Redux T
 
 ## 🧩 Redux Toolkit Flow
 
--todoSlice.js handles all todo logic (add, update, delete, toggle)
--store.js configures the Redux store
--Provider wraps the app in main.jsx
--Components interact with global state using:
--useSelector
--useDispatch
+- todoSlice.js handles all todo logic (add, update, delete, toggle)
+- store.js configures the Redux store
+- Provider wraps the app in main.jsx
+- Components interact with global state using:
+- useSelector
+- useDispatch
 
 ---
 
 ## 🎯 Learning Outcomes
 
-Mastery of Redux Toolkit fundamentals
-Clean and scalable global state management
-Separation of UI and business logic
-Real-world project structure using Redux
+- Mastery of Redux Toolkit fundamentals
+- Clean and scalable global state management
+- Separation of UI and business logic
+- Real-world project structure using Redux
 
 ---
 
 ## 🔮 Future Enhancements
 
-🌙 Dark / Light mode
-🔐 Authentication system
-☁️ Backend integration (Node.js + MongoDB)
-🧪 Unit testing with Jest & React Testing Library
+- 🌙 Dark / Light mode
+- 🔐 Authentication system
+- ☁️ Backend integration (Node.js + MongoDB)
+- 🧪 Unit testing with Jest & React Testing Library
 
 ---
 
 ## 🤝 Contributing
 
-Contributions are welcome!
-Fork the repository
-Create a feature branch
-Commit your changes
-Open a pull request
+- Contributions are welcome!
+- Fork the repository
+- Create a feature branch
+- Commit your changes
+- Open a pull request
 
 ---
 
